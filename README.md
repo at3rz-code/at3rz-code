@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  Hi, its<strong>at3rz</strong> 
+  Hi, its <strong>at3rz</strong> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
